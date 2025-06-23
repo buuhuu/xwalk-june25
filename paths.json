@@ -2,9 +2,11 @@
   "mappings": [
     "/content/xwalk-june25/:/",
     "/content/xwalk-june25/configuration:/.helix/config.json",
-    "/content/xwalk-june25/metadata:/metadata.json"
+    "/content/xwalk-june25/metadata:/metadata.json",
+    "/content/dam/xwalk-june25/:/assets/"
   ],
   "includes": [
-    "/content/xwalk-june25/"
+    "/content/xwalk-june25/",
+    "/content/dam/xwalk-june25/"
   ]
 }
