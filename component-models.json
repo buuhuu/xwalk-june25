@@ -152,6 +152,17 @@
         "multi": false
       },
       {
+        "component": "text",
+        "name": "text_heading",
+        "label": "Heading"
+      },
+      {
+        "component": "select",
+        "name": "text_headingType",
+        "hidden": true,
+        "value": "h3"
+      },
+      {
         "component": "richtext",
         "name": "text",
         "value": "",
