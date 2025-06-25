@@ -152,8 +152,23 @@
         "multi": false
       },
       {
+        "component": "text",
+        "name": "text_title",
+        "label": "Title"
+      },
+      {
+        "component": "select",
+        "name": "text_titleType",
+        "options": [
+          {
+            "name": "H2",
+            "value": "h2"
+          }
+        ]
+      },
+      {
         "component": "richtext",
-        "name": "text",
+        "name": "text_description",
         "value": "",
         "label": "Text",
         "valueType": "string"
