@@ -23,7 +23,7 @@
         {
           "component": "container",
           "label": "Container",
-          "multi": true,
+          "multi": false,
           "fields": [
             {
               "component": "reference",
