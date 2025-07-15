@@ -220,6 +220,7 @@
     "fields": [
       {
         "component": "container",
+        "name": "image-container",
         "label": "Container",
         "multi": true,
         "fields": [
