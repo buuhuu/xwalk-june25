@@ -221,7 +221,7 @@
       {
         "component": "container",
         "label": "Container",
-        "multi": false,
+        "multi": true,
         "fields": [
           {
             "component": "reference",
