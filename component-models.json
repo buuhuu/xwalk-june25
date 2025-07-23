@@ -232,12 +232,12 @@
         "valueType": "string",
         "options": [
           {
-            "label": "H2",
-            "value": "h2"
+            "name": "H3",
+            "value": "h3"
           },
           {
-            "label": "H3",
-            "value": "h3"
+            "name": "H4",
+            "value": "h4"
           }
         ]
       },
