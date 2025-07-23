@@ -214,5 +214,38 @@
         "valueType": "string"
       }
     ]
+  },
+  {
+    "id": "tab",
+    "fields": [
+      {
+        "component": "reference",
+        "valueType": "string",
+        "name": "title",
+        "label": "Title",
+        "multi": false
+      },
+      {
+        "component": "select",
+        "name": "titleType",
+        "label": "Title Type",
+        "valueType": "string",
+        "options": [
+          {
+            "label": "H2",
+            "value": "h2"
+          },
+          {
+            "label": "H3",
+            "value": "h3"
+          }
+        ]
+      },
+      {
+        "component": "xwalk:parsys",
+        "name": "tabpanel",
+        "filter": "tab-content"
+      }
+    ]
   }
 ]

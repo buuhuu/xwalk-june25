@@ -38,5 +38,18 @@
       "button",
       "title"
     ]
+  },
+  {
+    "id": "tabs",
+    "components": [
+      "tab"
+    ]
+  },
+  {
+    "id": "tab-content",
+    "components": [
+      "text",
+      "image"
+    ]
   }
 ]
